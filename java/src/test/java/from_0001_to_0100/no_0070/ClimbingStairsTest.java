@@ -3,8 +3,6 @@ package from_0001_to_0100.no_0070;
 import org.junit.Assert;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
 /**
  * @author: pf_xu
  * @date: 2021/1/24 15:28
